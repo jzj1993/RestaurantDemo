@@ -10,8 +10,8 @@
 
 ```
 FrameLayout {
-	ActionBar,
-	ShopCart,
+    ActionBar,
+    ShopCart,
     CoordinatorLayout { // 滚动容器
         FrameLayout { // 头部容器，和屏幕等高
             Header, // 露出来的Header部分
